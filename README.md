@@ -7,3 +7,4 @@
 <hr>
 <h2>Who should I contact if I have a question about the Wellesley Computer Science Club?</h2>
 <p>Any of the CS Officers (Ethan Chiu, Shannon Duffy, Nick Lueth, Ramya Yandava) or Dr.Cohen</p>
+<h2>**Resources will be uploaded soon (Check out last year's site for a sneak peak => http://whscs.ml/ )</h2>
