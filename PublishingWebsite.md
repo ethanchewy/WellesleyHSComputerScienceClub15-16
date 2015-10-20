@@ -11,7 +11,7 @@
   <li>
   	Login or register on JsBin. 
   	<br>
-  	<img href="Images/Week3-1">
+  	<img src="Images/Week3-1.png">
   </li>
 </ol>
 
