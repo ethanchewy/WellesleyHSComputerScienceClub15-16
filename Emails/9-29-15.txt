@@ -1,0 +1,18 @@
+Hello again,
+
+For those who came, thanks for coming! 
+
+As promised, here is the link to the facebook group, the github repository, and the google drive folder with all the presentations/notes: 
+https://www.facebook.com/groups/whscomsciclub/
+https://github.com/ethanchewy/WellesleyHSComputerScienceClub15-16 
+https://drive.google.com/drive/u/0/folders/0B_0VuTZLjvTQfmtFUW8wZXJDTmM5ZVRpM0duMkpEbXVSOFRtaXdHWml3cWNRNkJzbTU0Z00 
+For those who couldn't make it, hopefully you can join us for our next meeting (9/29) in room 452! Notes will be posted in the google drive folder soon. 
+
+For the next meeting, we will be going over how to create a basic site using just markup languages HTML/CSS and how to use git/github.
+
+As always, feel free to email me if you have any questions or concerns. 
+
+Cheers,
+Ethan Chiu
+
+PS: I have uploaded my presentation on git/github in the google drive folder if you'd like to take a look.  
