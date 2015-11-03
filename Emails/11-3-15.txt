@@ -1,0 +1,16 @@
+Hello Everyone,
+
+Sorry for giving an unhelpful tutorial for coding pong in javascript. Hopefully this (new) tutorial clarifies a few things: https://robots.thoughtbot.com/pong-clone-in-javascript 
+
+Here's my implementation of it: http://jsbin.com/gecutidiqa/edit?html,css,js & result: http://output.jsbin.com/gecutidiqa
+
+I saw some people go to khanacademy and codecademy to learn code so I though I'd give my 2 cents on those. I find https://www.khanacademy.org/computing/computer-programming/programming or https://www.codecademy.com/learn/javascript to be a good starting point. The problem I have with codecademy is that it doesn't really explain languages in depth. So, I usually consult w3schools.com or stackoverflow.com if I have any questions. Here are some other good resources:
+http://www.usaco.org/index.php?page=resources (competitive programming), https://www.easyctf.com/learn (cybersecurity), and https://www.codeschool.com/.
+
+All in all, I'd like everyone to complete the khanacademy and/or codecademy course before next week if that's possible. That should give you a good grounding for what we are going to do next week which will be planning our development of a full scale web application for the Wellesley School Tech System (barcode scanning system for tracking ipads).
+
+Lastly, as a reminder, I strongly reccomend all of you to apply to PennApps(https://my.pennapps.com/), a hackathon at UPenn (deadline ends this Friday).
+
+Cheers,
+Ethan Chiu
+https://github.com/ethanchewy/WellesleyHSComputerScienceClub15-16 
