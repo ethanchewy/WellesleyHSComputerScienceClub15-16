@@ -39,6 +39,7 @@
 <h2>Writing Javascript in HTML</h2>
 <img src="http://i.imgur.com/4ZrSFVh.png" alt="FirstJS" style="width:304px;height:228px;">
 <p>You can even format Test!</p>
+<img src="http://i.imgur.com/IgHhEGb.png" alt="FirstJS" style="width:304px;height:228px;">
 
 <br>
 <h2>Placing Javascript</h2>
@@ -55,3 +56,4 @@
 <br>
 <h2>Variables</h2>
 
+<h1>More Screenshots to be uploaded SOON!</h1>
