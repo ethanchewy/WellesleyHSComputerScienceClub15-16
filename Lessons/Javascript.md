@@ -1,4 +1,4 @@
-<!-- Created by Ethan Chiu November, 17, 2015 . Inspired by SoloLearn's Javascript App-->
+<!-- Created by Ethan Chiu November, 17, 2015 . Main Source & Inspiration: SoloLearn's Javascript App-->
 <b><h1>Learning Javascript(Part 1)</h1></b>
 <hr>
 <h2>What we will go over today!</h2>
@@ -19,3 +19,17 @@
 <p>Examples</p>
 <li><a href="http://codepen.io/HarrisCarney/pen/dPjKyK">JavaScript Visualizer</a></li>
 <li><a href="http://codepen.io/natewiley/pen/HBrbL">JavaScript memory game</a></li>
+<br>
+<h2>How is Javascript used?</h2>
+<p>JS works in the web browser</p>
+<p>Examples of how JS can work:</p>
+<ul>
+    <li>Displaying info based on time and date</li>
+    <li>Detecting Visitor's browser</li>
+    <li>Validated forms data</li>
+    <li>Create cookies</li>
+    <li>Change page contents</li>
+</ul>
+<p>JS can run either client side or server side</p>
+<p>Client Side: JS runs on your computer after web page is loaded</p>
+<p>Server Side: JS runs on a server (ex: PHP, Ruby on Rails, etc.)</p>
