@@ -33,3 +33,8 @@
 <p>JS can run either client side or server side</p>
 <p>Client Side: JS runs on your computer after web page is loaded</p>
 <p>Server Side: JS runs on a server (ex: PHP, Ruby on Rails, etc.)</p>
+<p>**Javascript is also used in other applications**</p>
+<br>
+
+<h2>Writing Javascript in HTML</h2>
+<img src="https://drive.google.com/uc?id=0B_0VuTZLjvTQQWtOOVB0R29BTUE" alt="FirstJS" style="width:304px;height:228px;">
