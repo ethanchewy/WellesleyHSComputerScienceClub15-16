@@ -38,3 +38,20 @@
 
 <h2>Writing Javascript in HTML</h2>
 <img src="https://drive.google.com/uc?id=0B_0VuTZLjvTQQWtOOVB0R29BTUE" alt="FirstJS" style="width:304px;height:228px;">
+<p>You can even format Test!</p>
+
+<br>
+<h2>Placing Javascript</h2>
+<p>Different ways to do so:</p>
+<ul>
+    <li>Header</li>
+    <li>Body</li>
+</ul>
+<p>External Javascript</p>
+
+<br>
+<hr>
+<h1>Basic Concepts of JS</h1>
+<br>
+<h2>Variables</h2>
+
