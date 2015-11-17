@@ -37,7 +37,7 @@
 <br>
 
 <h2>Writing Javascript in HTML</h2>
-<img src="https://drive.google.com/uc?id=0B_0VuTZLjvTQQWtOOVB0R29BTUE.png" alt="FirstJS" style="width:304px;height:228px;">
+<img src="http://i.imgur.com/4ZrSFVh.png" alt="FirstJS" style="width:304px;height:228px;">
 <p>You can even format Test!</p>
 
 <br>
